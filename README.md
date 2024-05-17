@@ -1,2 +1,3 @@
 # react-todo-list-app
-Created with CodeSandbox
+Created and Deployed with React ToDo List App using sandbox
+
